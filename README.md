@@ -14,7 +14,7 @@ The backend service has known issues, particularly with the `/results` endpoint:
 Your task is to refactor `service.ts` to ensure that the frontend can receive a response in less than 300 ms, while handling the backend's unreliability and performance issues.
 
 ## Time Frame
-You have up to three hours to complete this assignment.
+You have up to 90 minutes to complete this assignment.
 
 ## Requirements
 - **GitHub Repository:** [Spotted Zebra Engineering Lead Take-Home](https://github.com/Spotted-Zebra-UK/sz-engineering-lead-take-home.git)
